@@ -1,13 +1,13 @@
 # SQL-Data-cleaning-
 ### SQL Project: Tech Layoffs Data Cleaning and Standardization
 
-### 📌 Project Overview
+### Project Overview
 
 This project focuses on data cleaning and standardization of a raw layoffs dataset using SQL. Unclean data with duplicates, inconsistent formatting, and missing records can heavily compromise downstream data analysis. The goal of this script is to transform messy raw data into a structured, accurate, and reliable dataset ready for executive insights and visualization.
 
 * * *
 
-### 🛠️ Key Data Cleaning Steps
+###  Key Data Cleaning Steps
 
 The SQL script executes four main stages to ensure maximum data integrity:
 
@@ -25,14 +25,14 @@ The SQL script executes four main stages to ensure maximum data integrity:
 
 * * *
 
-### 💻 Tech Stack
+###  Tech Stack
 
 *   **Database Engine:** MySQL / PostgreSQL *(Update to match your dialect)*
 *   **Concepts Used:** CTEs, Window Functions, String Operations, Type Casting, DDL & DML Commands
 
 * * *
 
-### 🚀 How to Run the Script
+###  How to Run the Script
 
 1.  Clone this repository to your local machine.
 2.  Ensure you have a database instance initialized.
@@ -40,6 +40,6 @@ The SQL script executes four main stages to ensure maximum data integrity:
 
 * * *
 
-### 📈 Next Steps
+### Next Steps
 
 Now that the dataset is thoroughly cleaned, the next phase of this project involves conducting Exploratory Data Analysis (EDA) to uncover trends regarding which industries, locations, and funding stages were hit hardest by global layoffs.
